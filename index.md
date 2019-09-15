@@ -47,3 +47,32 @@ First task would be obtaining my tertiary degree, this combined with my current 
 [My Personality Type](https://i.imgur.com/BjZMzlX.png)
 [Vote Compass](https://i.imgur.com/QgFmuTM.png)
 
+## What Do the results of these test mean for you?
+Honestly, not a great deal, these are free tests and are done in an uncontrolled environment, I’ve done the same Myers-Briggs test prior and have gotten totally different results. The reasoning behind picking the Vote COMPASS test is because I would work better with people that I have common interests in.
+
+## How do you think these results may influence your behaviour in a team?
+Neither negatively or positively, the only influencing factor within a team for me is ensuring that I’m working with members who want to complete the task effectively and efficiently.
+
+## How should you take this into account when forming a team?
+I wouldn’t, these tests don’t consider the effort of some team members, if they’re going to apply themselves and if they’re just their to do the bare-minimum of a pass or if they’re striving to achieve better than average. 
+
+### Project 
+## Video Game Aggregation Platform (VGAP)
+
+## Overview
+This project will be about the development of a piece of software that would allow for the management of a user’s PC games onto one easily managed program. Here they will be able to combine the libraries of their PC games from platforms such as STEAM, uPlay, and ORIGIN onto one easy to use application. Here the user will be able to manage their games using tags and categories that will allow them to organise their games in however they see fit. Additionally, they will be able to update and launch their games from this single platform instead of from different platforms. 
+
+## Motivation
+In the past most developers and publishers would use the STEAM platform to launch their own video games, however many publishers were upset with how steam would take upwards of 30% of the sales from games. Electronic Arts (EA) was one of the first companies to stop selling its games on the STEAM and started their own platform ORIGIN. Here they begun selling their large catalogue of video games to the public. This has made many people upset as it forced them to split their digital library over two platforms instead of having it conveniently located in one location. The motivation for this program would be to unify the two libraries into one convenient location.
+
+## Description
+This application would integrate all your entire games library through multiple platforms to be integrated into one easy to use location. Users would also be able to add the executable of games that do not have DRM attached to them (e.g. bought from GOG, and shareware) The overall design of the application would be minimalistic to match windows 10. Games would be detected through searching for their executable in common folders. It would feature a light and dark theme to allow further customisation for the user, as well as an ability for the user to set predefined boxes within the application to allow the user to customise to a theme they desire. Features of this application would allow you to set categories of your games, allowing you to order your games in a way the user would find suitable, additionally it would allow users to track all of there hours into one location, using steam’s API, it would allow you to import your hours from the steam platform into the application, showing how much time you have played on your games. The time tracked would also give you a weekly break down to allow you to manage how much time you have spent playing games, where over the seven-day period it would show the total as well as divide how many hours a day you have been playing. To make navigation easy of the application easy, the user would be able to choose how they would want their games shown, users will be able to display the library as a list on the left hand sidebar where only the games name would be shown alongside a icon that would be displayed if the user had a shortcut on the desktop. When A single clicked a game, the game would highlight on the side bar, and information would be displayed about it such as time played, the alternate view would be the main window displaying the users library in a grid where the games would be displayed in rectangles by around 200w x 150h pixels where artwork of the game with the games name superimposed, this would scale with the resolution of the users monitor allowing for more games to be displayed per row, additionally user would also be able to upload custom images to display within the rectangles, this would be helpful in situations with games that don’t have banners automatically add through the API. This software would be free for all users, with no intention of it being monetised through advertisement. 
+
+## Tools & Technology
+This application is focused for gamers, so it would be assumed that they would have a gaming PC as it is the only hardware requirement for this software. Users would require access to the internet and the digital distribution platform STEAM to make use of the API integration. The final requirement for this software would be owning PC games, and having them installed on the computer, for this application to work correct they would require a .exe to build the shortcut from. 
+
+## Skills Required
+No specialised hardware would be required for this task, as stated previously the only hardware requirement is a gaming PC. Programming is the primary skill required for this task, with my current skills in programming it would be a slow progress in getting this application created, but with the help of open-source projects such as GitHub finding the relevant knowledge and skill makes this project feasible.
+
+## Outcome
+If this project would be successful, users would have an effective way to manage their library of games on their PC, they would not to open multiple applications on their computer to launch their titles. It’s overall a simple solution for an issue for some gamers where they want to consolidate all their games into one location, it may reduce the stress of wanting to purchase a game, but not due to not wanting to split your library over two digital distribution platforms. 
