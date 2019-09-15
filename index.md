@@ -43,3 +43,7 @@ I do not (currently) have the tertiary education, and I do not believe that I wo
 First task would be obtaining my tertiary degree, this combined with my current experience and future experience whilst studying would make me more competitive for the role, secondly, I would start looking for accredited courses in Microsoft, CISCO, Palo Alto, and Amazon AWS additionally during this time obtain the working with children check. I would also see what courses are available through my work, as they often will place members on ICT related courses to boost the capability of it’s workforce, and I would volunteer myself on as many ICT projects that I could get my hands on because they’re mostly run by third-party vendors who already have this knowledge and are generally willing to assist.
 
 ## Personal Profile
+[My Learning Style](https://i.imgur.com/5gujXAf.png)
+[My Personality Type](https://i.imgur.com/BjZMzlX.png)
+[Vote Compass](https://i.imgur.com/QgFmuTM.png)
+
