@@ -1,4 +1,6 @@
 # RMIT-COSC2196 - MY PROFILE
+![Frenchy](https://benjamin-j-tomlinson.github.io/IITA3_Group_Profile/images/20190120_162735.jpg "It's Me!")
+
 
 ## **Name:** Joseph French
 ## **Student Number:** S3754586
